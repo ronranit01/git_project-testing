@@ -1,1 +1,2 @@
 hello from doc 1 testing
+hello again this testing commit for command line
